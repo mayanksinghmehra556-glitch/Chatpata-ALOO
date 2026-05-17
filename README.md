@@ -1,2 +1,2 @@
 # Chatpata-ALOO
-For fun and your python journey
+My beginner projects using basics of python which i have learnt.
