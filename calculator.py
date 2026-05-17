@@ -1,0 +1,6 @@
+a=input("Enter your name: ")
+print("Hii",a)
+x=input("Enter your first number: ")
+y=input("Enter your second number: ")
+Z=input("enter the operation you want: ")
+print(" your answer is",eval(x+Z+y))
